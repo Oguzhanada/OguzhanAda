@@ -1,46 +1,30 @@
-# 👋 Hey! I'm Oguzhan Ada  
+# Oguzhan Ada
 
-Born in 1997, raised with computers, and still curious about everything tech.  
-Life took a few turns, but right now I’m on my **Back to Tech journey** — rebuilding my career in IT Support & Security.  
+**Information Security · Identity & Access Management · IT Support**
+Cork, Ireland · Eligible to work in Ireland (Stamp 4, no sponsorship required)
 
-I started at Halkbank in Turkey as part of the system security team:  
-- Wrote PowerShell scripts to make daily work easier  
-- Handled SSL/TLS certificates  
-- Managed accounts in Active Directory  
-- Helped run and support enterprise security tools  
+I am an information security professional with around 2.5 years of hands-on experience in a regulated banking environment, focused on identity and access management, Active Directory, and automation. I like building tools that remove manual work and reduce risk.
 
-After 2+ years, I wanted to grow abroad — first to learn English, then to meet a new culture. That’s how I ended up in Ireland.  
-To survive here, I did many different jobs: ironing in a dry cleaner, taking hem measurements in a tailor shop, even some gardening 🙂.  
-It wasn’t easy, but it gave me perspective. Now I’m ready to go back to my real field.  
+## What I work with
+- Active Directory, Group Policy, ADFS, and IAM (Joiner/Mover/Leaver, RBAC, least privilege)
+- PowerShell and Python automation (provisioning, reporting, health checks)
+- CyberArk PAM, MFA (TOTP, OTP), SSO, SAML, LDAP, Kerberos
+- SSL/TLS and PKI certificate lifecycle
+- SIEM, incident response, and root cause analysis
+- Microsoft 365, Windows Server, Linux (RHEL, Ubuntu)
 
----
+## Experience highlight
+At Türkiye Halk Bankası, I helped run identity and access operations for 20,000+ Active Directory accounts across a 1,000-branch estate:
+- Wrote 20+ PowerShell scripts and co-built a Jenkins self-service portal, cutting routine identity work by about 60%
+- Built a PowerShell and Remedy SSL certificate lifecycle tool that reduced renewals from 5+ days to under 4 hours
+- Ran CyberArk PAM, ADFS federation, and MFA for critical banking systems
+- Supported ISO 27001 and external (Deloitte) audits with zero critical findings
 
-## 🚀 Back to Tech Challenge  
+## Projects
+- **WorkMate** (https://workmate.ie), a live SaaS marketplace I built and run on my own using Next.js, TypeScript, Supabase, and Stripe Connect. I designed the role-based access control, row-level security, and TOTP MFA myself.
+- **PowerShell-Automation-Scripts**, a collection of PowerShell scripts for daily tasks, system checks, and automation.
 
-For 3 years in Ireland, I couldn’t work in IT.  
-I did other jobs, learned patience, and built resilience.  
-
-Now I’m back — step by step.  
-- Every new script = a step forward  
-- Every commit = a small win  
-- The goal: return stronger to my career in tech  
-
-This repo is not only code. It’s also my **personal comeback diary**.  
-
----
-
-## 🎯 What I Like to Work On  
-
-- Active Directory & Identity & Access Management  
-- PowerShell / Python automation  
-- SSL/TLS certificate management  
-- SIEM / Incident Response  
-
----
-
-📍 Living in Cork, Ireland  
-📫 LinkedIn: [linkedin.com/in/oguzhanaada](https://www.linkedin.com/in/oguzhanaada/)  
-
----
-
-⚡ *Note: Everything here is part of my journey back. Maybe it helps someone, maybe someone sees they’re not alone… or maybe it’s just a memory for me 🙂*
+## Contact
+- Cork, Ireland
+- LinkedIn: https://linkedin.com/in/oguzhanaada
+- Web: https://workmate.ie
